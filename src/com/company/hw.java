@@ -1,8 +1,6 @@
 package com.company;
 import ibadts.IBCollection;
 
-import java.sql.SQLOutput;
-
 public class hw {
     /* outputs John and Marie three times:
     John
